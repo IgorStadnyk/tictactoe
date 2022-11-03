@@ -1,4 +1,3 @@
-
 FROM ubuntu
 WORKDIR /app
 COPY flask3.py .
